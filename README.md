@@ -16,7 +16,8 @@ This part consists of four notebooks, each focusing on a specific topic:
 - an introduction to the format
 - Monte Carlo simulations
 - normaldistribution and
-- the chi-squared-tes
+- the chi-squared-test
+ 
 Apart from the intoduction, the three other notebooks follow the same structure: beginning with a theoretical section introducing the topic, followed by a hands-on activity using the same example of shoe
 sizes to guide students through the concepts.
 
