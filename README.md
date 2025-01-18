@@ -1,6 +1,7 @@
 Short summary of the content of the three-part-teaching material:
 
-Introduction to the standard model: 
+Introduction to the standard model:
+
 Consist of 1 notebook equipped with video material about the standard model: 
 
 - part one: introduction
@@ -10,6 +11,7 @@ Consist of 1 notebook equipped with video material about the standard model:
 Each film is accompanied by follow-up questions related to its content.
 
 Introduction to statistical tools: 
+
 Consist of 4 notebooks. 
 In this part, students engage in coding and interpreting results. For sections where students may lack sufficient coding skills, the material is presented descriptively while still encouraging questions about result interpretation. 
 This part consists of four notebooks, each focusing on a specific topic: 
@@ -22,6 +24,7 @@ Apart from the intoduction, the three other notebooks follow the same structure:
 sizes to guide students through the concepts.
 
 Analysis of v0-mass distributions with data from ALEPH: 
+
 The last part consist of 3 notebooks.
 They are based on previously learned skills and adds new theory about the ALPEH-detector and formation of K0-, Λ- and Λ¯ particles. The exercises is analyzing the mass distribution of the v0-particles from
 ALEPH data. The students are not expected to fully understand the code, they are encouraged to analyzethe results and discuss their interpretations.
